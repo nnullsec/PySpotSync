@@ -1,0 +1,12 @@
+[project]
+name = "PySpotSync"
+version = "0.1.0"
+description = "A Python command-line application for syncing local music library to Spotify playlists"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "python-dotenv>=1.2.1",
+    "requests>=2.32.5",
+    "spotipy>=2.25.1",
+    "typing>=3.10.0.0",
+]
