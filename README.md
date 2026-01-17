@@ -2,7 +2,7 @@
 
 <h1 align="center">PySpotSync</h1>
 
-<p align="center">Sync local music livrary to Spotify playlists</p>
+<p align="center">Sync local music library to Spotify playlists</p>
 
 ## Features
 
